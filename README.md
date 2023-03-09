@@ -1,6 +1,6 @@
 ### Olá! Sou Thierry Pereira
 
-- 🔭 Hoje trabalho como Consultor TOTVS Protheus
+- 🔭 Hoje trabalho como Consultor TOTVS Protheus na [Moove Consultoria](https://www.linkedin.com/company/mooveconsultoria/)
 - 🌱 Estudando Liguagens para Desenvolvimento Web
 - 📫 Contate-me no E-mail: thierry.pereira99@gmail.com  
 - 😄 Pronouns: Ele/Dele
