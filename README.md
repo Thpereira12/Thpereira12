@@ -1,4 +1,4 @@
-### Olá!! Prazer, Sou Thierry Pereira 
+### Olá Prazer!👋 Sou Thierry Pereira 
 
 - 🔭 Hoje trabalho como Consultor TOTVS Protheus na [Moove Consultoria](https://www.linkedin.com/company/mooveconsultoria/)
 - 🌱 Estudando Liguagens para Desenvolvimento Web
