@@ -1,9 +1,6 @@
-### Olá Prazer!👋 Sou Thierry 
+### Olá! Sou Thierry Pereira ✌ 
 
-- 🔭 Hoje trabalho como Consultor TOTVS Protheus na [Moove Consultoria](https://www.linkedin.com/company/mooveconsultoria/)
-- 🌱 Estudando Liguagens para Desenvolvimento Web
-- 📫 Contate-me no E-mail: thierry.pereira99@gmail.com  
-- 😄 Pronouns: Ele/Dele
+![Thierry Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=Thpereira12&show_icons=true&theme=onedark)
 
 
 
@@ -18,3 +15,9 @@
   <a href="https://www.facebook.com/ThPereira1912" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   
 </div>
+
+
+- 🔭 Analista de Sistemas
+- 🌱 Estudando Liguagens para Desenvolvimento Web
+- 📫 Contate-me no E-mail: thierry.pereira99@gmail.com  
+- 😄 Pronouns: Ele/Dele
